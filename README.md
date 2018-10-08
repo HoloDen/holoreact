@@ -14,7 +14,7 @@ git clone https://github.com/HoloDen/holoreact.git
 npm install
 ```
 
-3. Start ascii-dog holo backend app on localhost port 4141.
+3. Start [ascii-dog](https://github.com/HoloDen/ascii-dog-shelter) holo backend app on localhost port 4141.
 
 4. Run the react server
 
